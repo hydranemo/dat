@@ -92,3 +92,7 @@ document.getElementById("addItem").onclick = async (event) => {
   };
 
 //=============== Nghiệp vụ xóa dữ liệu
+// viết chức nnaag8 tìm kiếm
+let searchTask = (task) => {
+  console.log(task);
+}
